@@ -5,4 +5,4 @@
 
 <h4>Ders Dışı Aktivite: https://drive.google.com/file/d/1xSPPrM20ub0TubS8KjnktF-35NfbjQYP/view</h4>
 
-<h4>CodeBlocks Kurulum Klavuzu</h4>
+<h4>CodeBlocks Kurulum Klavuzu: https://drive.google.com/file/d/12511S0lX-sXi7eJpiWSUIlBklTpHD-Ab/view</h4>
