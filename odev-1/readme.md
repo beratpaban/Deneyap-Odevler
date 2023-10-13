@@ -2,3 +2,7 @@
 
 <hr>
 <h3>Ödevleri kendi Github hesaplarınıza yüklemeniz gerekmekte. Ödevlerin en geç 17 Ekim 23.59'a kadar gönderin daha geç gönderenler kabul edilmeyecektir. Hepinize başarılar👋🏻</h3>
+
+<h4>Ders Dışı Aktivite: https://drive.google.com/file/d/1xSPPrM20ub0TubS8KjnktF-35NfbjQYP/view</h4>
+
+<h4>CodeBlocks Kurulum Klavuzu</h4>
