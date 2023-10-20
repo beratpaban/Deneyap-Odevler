@@ -4,6 +4,8 @@
 <h3>Ödevleri kendi Github hesaplarınıza yüklemeniz gerekmekte. Ödevlerin en geç 25 Ekim 23.59'a kadar gönderin daha geç gönderenler kabul edilmeyecektir. Hepinize başarılar👋🏻</h3>
 
 <hr>
+<h3>Ders'in slaytı: https://docs.google.com/presentation/d/1w1A2UECZDT5ZY6HfciT5UK5a7PsiS1tM8gSrkkhJRIU/edit#slide=id.gd7b6f3ea22_1_0</h3>
+<hr>
 <h3>Hackerrank: https://www.hackerrank.com/</h3>
 <p>Hackerrnak sitesine üyelik açın daha sonra Prepare kısmına tıklayın. Alt kısımda "Prepare By Topics" adında bir başlık olacak bu başlığın altında "C++" kısmına tıklayın ve açılan kısımdan yapmanız gereken alıştırmalar: </p>
 <ul>
